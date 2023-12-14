@@ -12,3 +12,5 @@
 <img src="https://github.com/dafaprasetya/penyewaan-kamera/blob/main/gambar/Halaman%20tambah%20kamera.png?raw=true" alt="" srcset="">
 <h1>Halaman admin tambah sewaan</h1>
 <img src="https://github.com/dafaprasetya/penyewaan-kamera/blob/main/gambar/Halaman%20tambah%20sewaan.png?raw=true" alt="" srcset="">
+<h1>Halaman admin invoice</h1>
+<img src="https://github.com/dafaprasetya/penyewaan-kamera/blob/main/gambar/Halaman%20invoice.png?raw=true" alt="" srcset="">
