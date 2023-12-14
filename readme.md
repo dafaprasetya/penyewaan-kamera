@@ -1,3 +1,5 @@
+<h1>PENYEWAAN KAMERA</h1>
+<hr>
 <h1>Halaman login</h1>
 <img src="https://github.com/dafaprasetya/penyewaan-kamera/blob/main/gambar/Halaman%20login.png?raw=true" alt="" srcset="">
 <h1>Halaman register</h1>
